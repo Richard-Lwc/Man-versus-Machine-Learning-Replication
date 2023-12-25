@@ -9,7 +9,7 @@ Paper Link: https://academic.oup.com/rfs/article/36/6/2361/6782974
 
  ## Synopsis
 
-An attempt to replicate the tables and figures of the paper "Belief Overreaction and Stock Market Puzzles" (BGLS) in the following languages:
+An attempt to replicate the tables and figures of the paper "Man versus Machine Learning" in the following languages:
 * Stata
 * R
 * Python
